@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "The One Thing",
+  "base_artist": "INXS",
+  "createdAt": "2026-03-25T04:05:23.168096Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The One Thing",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/01_The_One_Thing_INXS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "This Is the One Thing We Did Not Want to Have Happen",
+      "artist": "The Brian Jonestown Massacre",
+      "has_synced": false,
+      "path": "select/02_This_Is_the_One_Thing_We_Did_Not_Want_to_Have_Happen_The_Brian_Jonestown_Massacre.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The One Thing",
+      "artist": "Alphaville",
+      "has_synced": true,
+      "path": "select/03_The_One_Thing_Alphaville.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The One Thing",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/04_The_One_Thing_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The One Thing",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/05_The_One_Thing_INXS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The One Thing",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/06_The_One_Thing_INXS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The One Thing",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/07_The_One_Thing_INXS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The One Thing (Extended Mix)",
+      "artist": "INXS",
+      "has_synced": false,
+      "path": "select/08_The_One_Thing_(Extended_Mix)_INXS.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The One Thing",
+      "artist": "Red Line Chemistry",
+      "has_synced": false,
+      "path": "select/09_The_One_Thing_Red_Line_Chemistry.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The One Thing",
+      "artist": "INXS",
+      "has_synced": false,
+      "path": "select/pl_01_The_One_Thing_INXS.txt"
+    }
+  ]
+}
